@@ -1,0 +1,11 @@
+{
+  "schema": "argus.bundle.v0",
+  "engine_version": "2.1.1",
+  "batteries": [
+    "x402-core"
+  ],
+  "key_id": "bundle-2026q4",
+  "tree_sha256": "35e373e6dc49842836d828e6e7e5e0ccaa167167f61cca3f3c64565b7bab8954",
+  "created_at": "2026-11-20T12:05:37.434Z",
+  "signature": "AlH3CtjqLc8bZzZ56NH6gXYIabJIU/ejuR/oomemMFf8TEXzF02rKuwvBnr4nKc50i6SISHCi96I1qp/L8P1AQ=="
+}
