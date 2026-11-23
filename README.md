@@ -1,5 +1,7 @@
 # argus-bundles
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/igor-vii/argus-bundles/badge)](https://scorecard.dev/viewer/?uri=github.com/igor-vii/argus-bundles)
+
 Public storage of sealed Argus engine bundles, per battery:
 
 ```
